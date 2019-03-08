@@ -7,7 +7,7 @@
 package gin
 
 import (
-	"github.com/gin-gonic/gin/render"
+	"github.com/satoshi-tachibana/gin/render"
 )
 
 // PureJSON serializes the given struct as JSON into the response body.
